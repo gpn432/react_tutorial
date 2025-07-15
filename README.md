@@ -1,3 +1,7 @@
+npx create-react-app app-name
+npm install react-router-dom // to enable redirect to other pages
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
