@@ -1,4 +1,4 @@
-npx create-react-app app-name
+npx create-react-app app-name. \
 npm install react-router-dom // to enable redirect to other pages
 
 
